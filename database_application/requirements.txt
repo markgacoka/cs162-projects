@@ -1,0 +1,17 @@
+alembic==1.7.7
+certifi==2020.6.20
+click==8.0.4
+colorama==0.4.4
+greenlet==1.1.2
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+itsdangerous==2.0.1
+Mako==1.1.6
+MarkupSafe==2.0.1
+six==1.16.0
+SQLAlchemy==1.4.34
+SQLAlchemy-Utils==0.38.2
+typing_extensions==4.1.1
+Werkzeug==2.0.3
+wincertstore==0.2
+zipp==3.6.0
